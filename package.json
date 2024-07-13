@@ -1,0 +1,21 @@
+{
+  "name": "cow-dark",
+  "displayName": "Cow Dark",
+  "description": "TBD",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cow Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cow Dark-color-theme.json"
+      }
+    ]
+  }
+}
