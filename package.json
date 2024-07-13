@@ -1,8 +1,18 @@
 {
-  "name": "cow-dark",
+  "name": "cowdark",
   "displayName": "Cow Dark",
-  "description": "TBD",
+  "description": "Dark theme for Visual Studio Code.",
   "version": "0.0.1",
+  "publisher": "MichaelRoubeiz",
+  "preview": true,
+  "galleryBanner": {
+    "color": "#333",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelroubeiz/cow-dark"
+  },
   "keywords": [],
   "engines": {
     "vscode": "^1.91.0"
