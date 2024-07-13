@@ -1,9 +1,9 @@
 {
 	"name": "Cow Dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
+		"editor.background": "#1E1E1E",
+		"editor.foreground": "#D0D0D0",
+		"activityBarBadge.background": "#007ACC",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
 	"tokenColors": [
@@ -15,7 +15,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#6A9955"
 			}
 		},
 		{
@@ -25,10 +25,10 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#9CDCFE"
 			}
 		},
-		{
+		{ //???
 			"name": "Colors",
 			"scope": [
 				"constant.other.color"
@@ -37,7 +37,7 @@
 				"foreground": "#ffffff"
 			}
 		},
-		{
+		{ //???
 			"name": "Invalid",
 			"scope": [
 				"invalid",
@@ -55,7 +55,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#569CD6"
 			}
 		},
 		{
@@ -75,7 +75,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#C586C0"
 			}
 		},
 		{
