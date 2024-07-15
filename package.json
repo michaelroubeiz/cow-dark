@@ -9,6 +9,7 @@
     "color": "#333",
     "theme": "dark"
   },
+  "icon": "assets/cow_dark_icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/michaelroubeiz/cow-dark"
